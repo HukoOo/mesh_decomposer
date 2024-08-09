@@ -19,3 +19,10 @@ pip install trimesh vedo mujoco
 ```
 
 ### (3) Usage
+
+Add concave meshes into meshes/visual and run script:
+```
+python script/mesh_mesh_decomposer.py
+```
+
+Then decomposed meshes are saved in meshes/collision folder with urdf file.
