@@ -1,0 +1,6 @@
+[submodule "third-party/v-hacd"]
+	path = third-party/v-hacd
+	url = https://github.com/kmammou/v-hacd
+[submodule "third-party/CoACD"]
+	path = third-party/CoACD
+	url = https://github.com/SarahWeiii/CoACD
