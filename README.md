@@ -1,6 +1,9 @@
 # mesh_decomposer
 Mesh convex decomposition using V-HACD and COACD
 
+<p float="left">
+  <img src="asset/convex_decomposition.png" height="200">
+</p>
 
 ### (1) Third-party Installation
 
@@ -26,3 +29,4 @@ python script/mesh_mesh_decomposer.py
 ```
 
 Then decomposed meshes are saved in meshes/collision folder with urdf file.
+
